@@ -2,6 +2,10 @@
 
 A polished learning dashboard for building a stronger data science career. This project combines a clean single-page experience with structured learning paths, daily tasks, curated resources, project ideas, interview prep, and career guidance.
 
+## Live Demo
+
+https://datasciencemastery.netlify.app/
+
 ## What It Does
 
 - Tracks a structured data science learning journey from fundamentals to advanced topics.
